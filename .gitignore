@@ -1,0 +1,10 @@
+# Sistema
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Node (por si acaso)
+node_modules/
